@@ -1,0 +1,11 @@
+.gradle
+build/
+.idea/
+local.properties
+*.iml
+
+# Project exclude paths
+/.google/
+/app/
+/gradle/
+/server/
